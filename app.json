@@ -1,8 +1,8 @@
 {
-  "name": "LEGEND-md-v2",
+  "name": "LEGEND-x-HM",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://im.gurl.eu.org/file/7a0c3f651170d3bbb2076.jpg",
-  "keywords": ["LEGEND-MD-V2", "LEGENDV2", "LEGEND MD","LEGEND MD","LEGEND","LEGENDtech"],
+  "logo": "https://raw.githubusercontent.com/HsnCyber/LEGEND-X-HM/main/asset/logo.jpg",
+  "keywords": ["LEGEND-MD", "LEGEND", "LEGEND MD","LEGEND MD","LEGEND","LEGENDtech"],
   "success_url": "/",
   "stack": "container",
 
@@ -20,7 +20,7 @@
     
     "IMAGE" : {
       "description": "THUMB IMAGE FOR BOT ",
-      "value": "https://telegra.ph/file/2661e48e39f39c15cdd6b.jpg",
+      "value": "https://raw.githubusercontent.com/HsnCyber/LEGEND-X-HM/main/asset/logo.jpg",
       "required" : true
     },
 
