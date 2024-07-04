@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VajDL6mHFxP88HXtWG3F">
-    <img alt="Hassam" height="300" src="https://im.gurl.eu.org/file/172660208b9b9ec84facd.jpg">
+    <img alt="Hassam" height="300" src="[https://im.gurl.eu.org/file/172660208b9b9ec84facd.jpg](https://raw.githubusercontent.com/HsnCyber/LEGEND-X-HM/main/asset/logo.jpg)">
     <h1 align="center">LEGEND X HM</h1>
   </a>
 </p>
