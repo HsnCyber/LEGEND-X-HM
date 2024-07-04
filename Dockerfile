@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/LEGEND/WASI-MD-V2.git /root/LEGEND
+RUN git clone https://github.com/HsnCyber/LEGEND-X-HM.git /root/LEGEND
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
