@@ -22,7 +22,7 @@ Welcome to my awesome project! Here you'll find...
 
 Check out my YouTube channel for tutorials and more!
 
-[![YouTube Channel](https://www.youtube.com/@PRINCEYT135)
+[![YouTube Channel](https://youtube.com/@princeyt135?si=nCoAth2T5aUEICOL)
 ## WhatsApp Channel
 
 Join our WhatsApp channel for updates and discussions!
