@@ -1,20 +1,20 @@
 {
    "name": "legend-x-hm",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by itxxwasi ....",
+   "description": "Multi device whatsapp bot by HsnCyber ....",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Itxxwasi || node .",
-      "Itxxwasi ": "pm2 start . --deep-monitoring --attach --name Itxxwasi || node .",
-      "start": "pm2 start . --attach --name Itxxwasi",
-      "stop": "pm2 stop Itxxwasi",
+      "run": "pm2 start . --deep-monitoring --attach --name HsnCyber || node .",
+      "HsnCyber ": "pm2 start . --deep-monitoring --attach --name HsnCyber || node .",
+      "start": "pm2 start . --attach --name HsnCyber",
+      "stop": "pm2 stop HsnCyber",
        "heroku-postbuild": "git clone https://github.com/HsnCyber/LEGEND-X-HM.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
       "fis-heroku-postbuild": "git clone https://github.com/HsnCyber/LEGEND-X-HM.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
      
    },
-   "author": "Itxxwasi",
+   "author": "HsnCyber",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
