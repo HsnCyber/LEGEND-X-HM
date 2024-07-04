@@ -22,7 +22,7 @@ Welcome to my awesome project! Here you'll find...
 
 Check out my YouTube channel for tutorials and more!
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Hassamtech1)
+[![YouTube Channel](https://www.youtube.com/@PRINCEYT135)
 ## WhatsApp Channel
 
 Join our WhatsApp channel for updates and discussions!
@@ -58,7 +58,7 @@ Join our WhatsApp support group for assistance and discussions!
 # <a href="(https://replit.com/github/HsnCyber/LEGEND-X-HM"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
 # <a href="https://Hassammd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
- [`HyHamza FOR BaseBot `](https://github.com/HyHamza)
+ [`HyHamza FOR BaseBot `](https://github.com/HsnCyber)
   [`Allah for Help`]
   
 
